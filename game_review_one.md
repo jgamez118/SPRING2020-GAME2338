@@ -29,7 +29,7 @@ A "Treasure" is the physical manifestation of the persons desire and once this T
 I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
 
 I really liked the turn based battles where the player would have to strategize what they will do next and how the player has to plan out how to keep the main character alive because when he is defeated it's game over and the player has to restart from the last saferoom, or if it's during a boss fight restart the battle. 
-The music for this game fit perfectly with the way how it's always relevant for whatever's happening such as when your roaming around town, or battling the main boss. One thing that I didn't like was how in a previous game Persona 3 when in the something similar to the Metaverse you could go to the safehouse and completely heal our hp and sp by using some money, but that doesn't show up until the very end of the game in Persona 5.
+The music for this game fit perfectly with the way how it's always relevant for whatever's happening such as when your roaming around town, or battling the main boss. One thing that I didn't like was how in a previous game Persona 3 when in the something similar to the Metaverse you could go to the safehouse and completely heal our hp and sp by using some money, but that doesn't show up until the very end of the game in Persona 5. I've played over 100 hours of this game and honestly I still don't get tired of jamming out to the music.
 
 ## Additional Information
 Links to other reviews or other information you used in this review.
