@@ -1,0 +1,164 @@
+{
+  "id": "d627f1f2-273a-4cdb-a94b-ff43fe08b82c",
+  "version": "2.0",
+  "name": "Automated Testing",
+  "url": "https://www.google.com",
+  "tests": [{
+    "id": "48413267-93fc-49b3-a923-0871e257a816",
+    "name": "Untitled",
+    "commands": [{
+      "id": "eb6d68c8-6a90-440e-ab39-48b6eaebc96c",
+      "comment": "",
+      "command": "open",
+      "target": "/search?q=gaesmtop&rlz=1C1CHBF_enUS812US812&oq=gaesmtop&aqs=chrome..69i57.1904j0j7&sourceid=chrome&ie=UTF-8",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "025221cb-031d-4b87-a1d7-686749e0dd1c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1366x728",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d18064e7-9cda-48a9-aed5-bba91ee31558",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=i",
+      "targets": [
+        ["css=i", "css:finder"],
+        ["xpath=//a[@id='fprsl']/b/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"],
+        ["xpath=//i[contains(.,'gamestop')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2925decc-bf19-4470-95fd-2fc3f662dda9",
+      "comment": "",
+      "command": "click",
+      "target": "css=i",
+      "targets": [
+        ["css=i", "css:finder"],
+        ["xpath=//a[@id='fprsl']/b/i", "xpath:idRelative"],
+        ["xpath=//i", "xpath:position"],
+        ["xpath=//i[contains(.,'gamestop')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9b3dc89d-60a8-4303-a0c3-ecfd51c46dab",
+      "comment": "",
+      "command": "click",
+      "target": "css=.sA5rQ",
+      "targets": [
+        ["css=.sA5rQ", "css:finder"],
+        ["xpath=//a[@id='vn1s0p1c0']/h3", "xpath:idRelative"],
+        ["xpath=//h3", "xpath:position"],
+        ["xpath=//h3[contains(.,'GameStop® Official Site | Games, Consoles, & More‎')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "78129e91-8ea3-4e7c-8cc3-94a39c975cff",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nav-item:nth-child(1) > .nav-link > span",
+      "targets": [
+        ["css=.nav-item:nth-child(1) > .nav-link > span", "css:finder"],
+        ["xpath=//div[@id='sg-navbar-collapse']/div/div/nav/div[3]/ul/li/a/span", "xpath:idRelative"],
+        ["xpath=//li/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "31941122-f32c-4e07-8923-150a4184de82",
+      "comment": "",
+      "command": "click",
+      "target": "css=.show > .menu-container > .menu-list > .dropdown-item:nth-child(1) > .dropdown-link",
+      "targets": [
+        ["css=.show > .menu-container > .menu-list > .dropdown-item:nth-child(1) > .dropdown-link", "css:finder"],
+        ["xpath=//div[@id='sg-navbar-collapse']/div/div/nav/div[3]/ul/li/div/div/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://www.gamestop.com/video-games/playstation-4')]", "xpath:href"],
+        ["xpath=//div/div/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'PlayStation 4')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "499298fc-9283-414a-a1fb-fc2c892cd350",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,1173)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8d14d425-0de1-436e-b9c2-eeb36c1877a7",
+      "comment": "",
+      "command": "click",
+      "target": "css=#slick-slide13 .w-100",
+      "targets": [
+        ["css=#slick-slide13 .w-100", "css:finder"],
+        ["xpath=(//img[@alt='Resident Evil 3'])[3]", "xpath:img"],
+        ["xpath=//div[@id='slick-slide13']/a/img", "xpath:idRelative"],
+        ["xpath=//div[4]/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c58c31e0-3897-4810-93b5-41255b8cf985",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,16)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a9bb51b1-7fb8-4243-bc5e-2db2389f6ed8",
+      "comment": "",
+      "command": "runScript",
+      "target": "window.scrollTo(0,800)",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "baf87f6a-dbd8-482c-9bf4-ba8b8557fe43",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.hl-grid-product:nth-child(5) .tile-image",
+      "targets": [
+        ["css=.hl-grid-product:nth-child(5) .tile-image", "css:finder"],
+        ["xpath=//img[@alt='NBA 20']", "xpath:img"],
+        ["xpath=//div[@id='product-search-results']/div/div/div/div/div[5]/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1f7bff3d-7212-4724-901d-6a2656d244e8",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "css=.hl-grid-product:nth-child(5) .tile-image",
+      "targets": [
+        ["css=.hl-grid-product:nth-child(5) .tile-image", "css:finder"],
+        ["xpath=//img[@alt='NBA 20']", "xpath:img"],
+        ["xpath=//div[@id='product-search-results']/div/div/div/div/div[5]/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[5]/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2f2fda02-c412-4c9b-bbab-738476a10190",
+      "comment": "",
+      "command": "click",
+      "target": "css=.product-grid-tile-wrapper:nth-child(7) .tile-image",
+      "targets": [
+        ["css=.product-grid-tile-wrapper:nth-child(7) .tile-image", "css:finder"],
+        ["xpath=//img[@alt=\"Resident Evil 3 Remake Collector's Edition Only at GameStop\"]", "xpath:img"],
+        ["xpath=//div[@id='product-search-results']/div/div/div/div/div[7]/div/div/div/a/img", "xpath:idRelative"],
+        ["xpath=//div[7]/div/div/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "54c94d52-b904-4bdf-9329-356408bdef60",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["48413267-93fc-49b3-a923-0871e257a816"]
+  }],
+  "urls": ["https://www.google.com/"],
+  "plugins": []
+}
